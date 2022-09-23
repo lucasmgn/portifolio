@@ -1,0 +1,14 @@
+github = https://github.com/lucasmgn
+linkedin = https://www.linkedin.com/in/lucas-magno-454aa8204/
+back-end java
+• Análise e Desenvolvimento de Sistemas - 4º semestre.
+• Conhecimento em arquitetura REST.
+• Conhecimento em Spring Data, Spring Security, OAuth2, Spring Web Services.
+• Amazon S3.
+• Experiência com MySQL e MongoDB.
+• Conhecimento em versionamento de Banco de Dados com o Flyway.
+• Domínio em consultas avançadas com JPA e Hibernate, Criteria, JPQL, consultas nativas e otimização de recursos.
+• Conhecimento em Junit, Mockito, REST Assured.
+• Conhecimento em tecnologias como Postman, Lombok, Jackson, Model Mapper, Bean Validation, Squiggly, JasperSoft Studio.
+• Conhecimento em OpenAPI, Swagger UI e SpringFox.
+• Atualmente estou aprendendo Docker e AWS.
